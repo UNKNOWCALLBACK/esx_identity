@@ -1,4 +1,4 @@
-Config = {}
+Config = {} or null
 
 Config.Locale = 'th'
 
